@@ -1,6 +1,10 @@
 # Leetcode Practice
 
-* February
+One leetcode problem a day goes a long way...
+But even better is two or three a day at medium+ difficulties 🤪
+
+
+### February progress
 
 | Dates | Completion | Notes |
 |-------|---------|----------|
