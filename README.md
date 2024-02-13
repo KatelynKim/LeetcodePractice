@@ -2,8 +2,8 @@
 
 * February
 
-| Dates | Completion |
-|-------|---------|
+| Dates | Completion | Notes |
+|-------|---------|----------|
 |  12   | &#10004;|
 |  13   |         |
 |  14   |         |
