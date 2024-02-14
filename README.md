@@ -9,7 +9,7 @@ But even better is two or three a day at medium+ difficulties 🤪
 | Dates | Completion | Notes |
 |-------|---------|----------|
 |  12   | &#10004;|
-|  13   |         |
+|  13   |&#10004; |
 |  14   |         |
 |  15   |         |
 |  16   |         |
