@@ -20,7 +20,7 @@ But even better is two or three a day at medium+ difficulties 🤪
 |  21   |&#10004; | - Encode and decode strings - Encode strings by adding the count of chars in each string followed by a symbol to mark it as the end of count and the actual string itself. Decode by iterating through each char in the string until the next symbol mark to determine the count, then splice the string appropriately.<br> - Valid palindrome - Have l and r pointers starting at both ends of the string. Skip over non-alphanumerical letters. Stop the loop when l > r. <strong>Consider an edge case all letters are non-alphanumeric.</strong>
 |  22   |&#10004; | - ThreeSum - avoid adding duplicates by skipping if 1) curr indexed pivot is identical to the prev pivot; and 2) nums[l] == nums[l-1].<br> - Container with most water - greedy problem <br> - Best time to sell stocks
 |  23   |         |
-|  24   |         |
+|  24   |&#10004; | - Longest substring without repeating chars: shift left pointer (adjust window) when a char is repeated. <br> - Longest repeating character replacement - Window length should be no more than the count of most freq char in the window + k. Shrink the window as needed to meet this condition. <br> - Valid parenthesis
 |  25   |         |
 |  26   |         |
 |  27   |         |
