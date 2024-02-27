@@ -22,6 +22,6 @@ But even better is two or three a day at medium+ difficulties 🤪
 |  23   |         |
 |  24   |&#10004; | - Longest substring without repeating chars: shift left pointer (adjust window) when a char is repeated. <br> - Longest repeating character replacement - Window length should be no more than the count of most freq char in the window + k. Shrink the window as needed to meet this condition. <br> - Valid parenthesis
 |  25   |         |
-|  26   |         |
+|  26   |&#10004; | - Find minimum in rotated sorted array <br> - Search in rotated sorted array <br> - Merge two sorted lists <br> - Reverse linked list <br> - Reorder list - when splitting the list in the middle, make sure the last element in the first linked list points to nothing.
 |  27   |         |
 |  28   |         |
