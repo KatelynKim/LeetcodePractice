@@ -3,8 +3,14 @@
 One leetcode problem a day goes a long way...
 But even better is two or three a day at medium+ difficulties 🤪
 
+### March progress
 
-### February progress
+| Dates | Completion | Notes |
+|-------|---------|----------|
+|  1   | &#10004;| Lowest common ancestors - LCA is where the split occurs. |
+
+
+### February progress (26 solved in total)
 
 | Dates | Completion | Notes |
 |-------|---------|----------|
