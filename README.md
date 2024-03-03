@@ -7,8 +7,12 @@ But even better is two or three a day at medium+ difficulties 🤪
 
 | Dates | Completion | Notes |
 |-------|---------|----------|
-|  1    | &#10004;| Lowest common ancestors - LCA is where the split occurs. |
-|  2    | &#10004;| Validate BST - Update max and min range for left and right subtrees.|
+|  1    | &#10004;| - Lowest common ancestors - LCA is where the split occurs. |
+|  2    | &#10004;| - Validate BST - Update max and min range for left and right subtrees.|
+|  3    | &#10004;| - Binary Tree Level Order Traversal - BST using queue. Pop len(queue) children at each level. <br> - Kth smallest element in BST - Iterative inorder traversal using stack - visit all left nodes first, then pop if curr is null, or add the right node to the stack. <br> - Construct binary tree from preorder & inorder traversal - Preorder: root -> left -> right. Inorder: left -> root -> right. Given this, you know where the split occurs between the left and right subtrees. |
+| 4     |         |          |
+| 5     |         |          |
+| 6     | &#10004;| - Implment trie prefix tree - Create and use a TrieNode with a hashmap to store children of the current letter and mark the end of word.         |
 
 
 ### February progress (26 solved in total)
