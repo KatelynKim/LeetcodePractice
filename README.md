@@ -7,7 +7,8 @@ But even better is two or three a day at medium+ difficulties 🤪
 
 | Dates | Completion | Notes |
 |-------|---------|----------|
-|  1   | &#10004;| Lowest common ancestors - LCA is where the split occurs. |
+|  1    | &#10004;| Lowest common ancestors - LCA is where the split occurs. |
+|  2    | &#10004;| Validate BST - Update max and min range for left and right subtrees.|
 
 
 ### February progress (26 solved in total)
